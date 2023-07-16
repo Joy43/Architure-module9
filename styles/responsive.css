@@ -38,6 +38,19 @@ header{
         display: grid;
         grid-template-columns: repeat(1,1fr);
     }
+  .feature-container{
+    display: grid;
+  }  
+  .box-section{
+    display: grid;
+    grid-template-columns: repeat(1,1fr);
+    gap: 20px;
+}
+    .sponsors-img-container{
+        display: grid;
+        grid-template-columns: auto auto;
+    }
+  
 } 
     
 /* banner */
